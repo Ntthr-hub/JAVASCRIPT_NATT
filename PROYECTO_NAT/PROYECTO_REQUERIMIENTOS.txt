@@ -1,0 +1,6 @@
+PROYECTO
+CURSO
+-nombre
+-poster
+-clases
+-incritos
