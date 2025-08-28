@@ -5,6 +5,8 @@ export default class Curso {
      this.clases = clases
      this.inscritos = []// inicamos con un array vacio
     // inscritos isn necesidad de iniciar de los parametros del constructor
+    // inscritos isn necesidad de iniciar de los parametros del constructor
+    
     }
 
 // crearemos los metodos

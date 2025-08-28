@@ -3,7 +3,7 @@
 
 import Curso from "../clases/curso.js"
 // instanaciamos objetos de la clase curso
-const javascripts = new Curso("JAVASCRIPT Nivel Intermedio", "https://cursoscortos.posgradoupea.edu.bo/assets/img/banner_cursos/JAVASCRIP_V8_2025_08_08_16_10_01.jpeg", 6)
+const javascripts = new Curso("JAVASCRIPT Nivel1 Intermedio", "https://cursoscortos.posgradoupea.edu.bo/assets/img/banner_cursos/JAVASCRIP_V8_2025_08_08_16_10_01.jpeg", 6)
 const typescript = new Curso("TYPESCRIPT desde cero", "https://cursoscortos.posgradoupea.edu.bo/assets/img/banner_cursos/React%20_V4_2025_08_22_16_44_43.jpeg", 1)
 const elemnat = document.getElementById("cursos")
 // imprime un curso en el dom , recibiendo el poster nombre y cantidad
