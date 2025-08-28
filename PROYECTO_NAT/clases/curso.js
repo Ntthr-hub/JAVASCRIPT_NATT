@@ -33,4 +33,5 @@ setPoster(poster){
  setInscritos(lista) {
     this.inscritos = lista
 }
+
 }

@@ -74,9 +74,9 @@ if (edad > 18 && edad < 60){
     console.log(`${persona} es mayor de edad pero no llego a la 3era edad`)
 }
  if ( edad > 18 && edad < 65){
-    console.log(`${persona} es adulto`)
+    console.log(`${persona} es un adulto independiente`)
  } else {
-    console.log(`${persona} es menor de edad`)
+    console.log(`${persona} felicidades eres mayor de edad , ya podemos apreciar tu barbita`)
  }
 
  // SWITCH - CASE
