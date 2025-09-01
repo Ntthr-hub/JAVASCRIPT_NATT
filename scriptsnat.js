@@ -70,14 +70,14 @@ console.log(d == c)
 // condicionales
 let edad = 18
 let persona = "natali huar"
-if (edad > 18 && edad < 100){
-    console.log(`${persona} es mayor de edad `)
+
+if (edad > 18 && edad < 120) {
+    console.log(`${persona} es mayor de edad`)
+} else if (edad < 18 && edad > 0) {
+    console.log(`${persona} eres menor de edad`)
+} else {
+    console.log("Edad invalida")
 }
- if ( edad < 18 && edad >0){
-    console.log(`${persona} Eres menor de edad`)
- } else {
-    console.log(`${persona} Legalmente eres mayor de edad `)
- }
 
  // SWITCH - CASE
  personalidad = "enojado"
